@@ -1,0 +1,51 @@
+WAMAP,CC_Correct,WH,SR,from_country,from_continent,siblings,pets,pineapple_on_pizza,pineapple_ordered,tech_skills,tech_skills_ordered,in_seattle_area,in_us,tv_movies,video_games,exercise,cooking,music,arts_crafts,working,reading,studying_classes,gardening_yardwork
+83,56.3,75,93.88,United States,North America,0,3,No,-1,I frequently have problems with technology.,1,0,1,1,0,1,1,1,0,0,1,1,0
+90.55,81.25,63.89,82.22,China,Asia,0,1,I'm not sure.,0,"I have some issues with technology, I will need some support.",2,1,1,1,1,1,1,1,1,1,1,1,0
+100,96.25,94.44,91.11,China,Asia,0,2,YEAH!,3,"I have some issues with technology, I will need some support.",2,1,1,1,1,0,1,0,0,0,1,1,0
+100,90.5,91.67,100,China,Asia,2,1,No,-1,"I have some issues with technology, I will need some support.",2,1,1,1,1,1,0,1,0,0,1,1,0
+72.07,57.5,69.44,95.56,United States,North America,2,0,No,-1,"I have some issues with technology, I will need some support.",2,1,1,0,0,0,1,1,1,0,0,1,0
+69.1,48.52,50,73.47,China,Asia,1,1,YEAH!,3,I'm okay with technology.,3,1,1,1,1,1,1,1,0,1,1,1,0
+87.55,42.78,75,83.67,Japan,Asia,2,0,Sometimes,1,I'm okay with technology.,3,0,0,1,1,1,1,1,0,1,0,1,0
+94.71,89.75,72.22,75.56,Indonesia,Asia,2,0,Sometimes,1,I'm okay with technology.,3,1,1,1,1,1,1,1,0,0,1,1,0
+96.05,72.41,75,81.63,Taiwan,Asia,1,0,Yes,2,I'm okay with technology.,3,0,0,1,1,0,0,0,1,0,0,0,0
+98.24,78.25,83.33,100,Japan,Asia,2,0,Yes,2,I'm okay with technology.,3,1,1,0,0,1,1,0,0,0,0,1,0
+99.8,82.5,91.67,91.11,India,Asia,1,0,I'm not sure.,0,I'm okay with technology.,3,0,0,1,0,0,1,1,0,1,0,1,0
+71.09,78.75,97.22,95.56,United States,North America,2,0,Sometimes,1,I'm okay with technology.,3,1,1,1,0,0,0,0,0,1,0,1,0
+91.14,84.25,77.78,100,United States,North America,1,0,UGH gross.,-2,I'm okay with technology.,3,1,1,1,0,1,1,0,1,1,0,1,0
+91.72,87.5,86.11,100,United States,North America,2,2,YEAH!,3,I'm okay with technology.,3,0,1,1,0,1,0,1,0,0,0,1,0
+94.66,77.5,91.67,97.78,United States,North America,3,2,Sometimes,1,I'm okay with technology.,3,1,1,1,1,0,0,0,0,0,0,1,0
+94.74,43.7,66.67,87.76,United States,North America,2,0,Sometimes,1,I'm okay with technology.,3,1,1,1,1,1,1,1,0,1,0,1,0
+94.85,79.5,94.44,97.78,United States,North America,3,1,Sometimes,1,I'm okay with technology.,3,1,1,0,0,1,0,1,1,0,0,1,0
+97.81,75.75,91.67,100,United States,North America,3,4,No,-1,I'm okay with technology.,3,1,1,1,0,1,1,0,1,1,0,0,0
+100,62.5,77.78,97.78,United States,North America,1,0,YEAH!,3,I'm okay with technology.,3,1,1,1,1,1,0,0,0,0,0,1,0
+70.12,73.75,75,88.89,United States,North America,1,4,YEAH!,3,I'm okay with technology.,3,1,1,1,1,1,1,1,1,0,1,1,1
+77.73,73.7,50,100,United States,North America,1,0,Sometimes,1,I'm okay with technology.,3,1,1,1,1,1,1,1,1,0,1,1,1
+86.94,47.22,69.44,93.88,United States,North America,0,1,Sometimes,1,I'm okay with technology.,3,0,1,1,0,1,1,1,1,0,1,1,1
+88.26,35.93,69.44,102.04,United States,North America,1,3,Yes,2,I'm okay with technology.,3,1,1,0,0,1,1,1,0,0,0,0,1
+90.64,73,83.33,100,United States,North America,5,2,YEAH!,3,I'm okay with technology.,3,1,1,1,1,0,0,1,1,0,0,1,1
+100,84.5,100,100,United States,North America,2,0,Sometimes,1,I'm okay with technology.,3,1,1,1,1,1,1,0,0,0,0,1,1
+97.37,77.41,80.56,91.84,Nigeria,Africa,3,0,Sometimes,1,I'm great with technology,4,1,1,1,1,0,1,1,0,0,1,1,0
+69.71,38.7,47.22,75.51,Indonesia,Asia,2,0,UGH gross.,-2,I'm great with technology,4,1,1,1,1,0,1,1,0,0,0,1,0
+83.79,74.75,88.89,93.33,China,Asia,0,2,Yes,2,I'm great with technology,4,0,0,1,1,1,1,1,0,1,1,1,0
+84.92,60,72.22,79.59,Viet Nam,Asia,1,1,Sometimes,1,I'm great with technology,4,1,1,1,0,0,0,1,0,1,0,1,0
+86.23,54.07,61.11,91.84,Taiwan ,Asia,1,2,UGH gross.,-2,I'm great with technology,4,0,0,1,0,1,0,1,1,0,1,1,0
+92.81,17.41,77.78,91.84,Indonesia,Asia,1,1,No,-1,I'm great with technology,4,0,0,1,0,1,0,1,0,0,1,1,0
+95.45,72.5,77.78,93.33,Russia,Asia,1,0,No,-1,I'm great with technology,4,0,0,1,1,1,1,1,1,0,1,1,0
+98.81,90.5,97.22,100,India,Asia,1,0,No,-1,I'm great with technology,4,0,0,1,1,1,1,1,1,1,0,1,0
+100,90.37,100,102.04,China,Asia,1,1,YEAH!,3,I'm great with technology,4,1,1,1,0,1,1,1,1,0,1,1,0
+51.32,42.59,44.44,30.61,United States,North America,3,1,YEAH!,3,I'm great with technology,4,1,1,0,1,1,0,0,0,1,0,1,0
+58.6,28.89,22.22,42.86,United States,North America,1,0,YEAH!,3,I'm great with technology,4,0,1,1,1,0,0,1,1,1,1,0,0
+79.76,48.15,66.67,77.55,United States,North America,1,1,Yes,2,I'm great with technology,4,1,1,1,0,1,1,1,1,1,1,1,0
+93.84,77,69.44,91.11,United States,North America,1,0,YEAH!,3,I'm great with technology,4,1,1,1,1,0,1,1,0,0,1,1,0
+94,65.25,86.11,100,United States,North America,0,1,Sometimes,1,I'm great with technology,4,0,1,1,0,1,0,1,1,0,1,0,0
+96.54,91.5,100,100,United States,North America,3,0,Yes,2,I'm great with technology,4,1,1,1,0,0,1,0,0,1,0,1,0
+97.88,80.25,91.67,100,United States,North America,1,3,No,-1,I'm great with technology,4,1,1,1,0,1,1,0,1,0,1,1,0
+98.08,77.41,91.67,93.88,United States,North America,0,0,No,-1,I'm great with technology,4,1,1,1,1,0,1,1,0,1,1,1,0
+98.08,84.44,83.33,97.96,United States,North America,1,1,YEAH!,3,I'm great with technology,4,0,1,1,0,1,1,1,1,0,1,1,0
+100,84.81,94.44,95.92,United States,North America,2,0,YEAH!,3,I'm great with technology,4,1,1,1,1,1,0,1,0,0,0,1,0
+100,84.75,86.11,97.78,China,Asia,1,0,Sometimes,1,I'm great with technology,4,1,1,1,0,1,1,1,1,0,0,1,1
+68.42,47.59,66.67,75.51,United States,North America,1,1,Sometimes,1,I'm great with technology,4,1,1,1,1,1,1,1,1,0,1,1,1
+71.69,77.75,83.33,60,United States,North America,3,3,Sometimes,1,I'm great with technology,4,0,1,0,0,0,1,1,0,1,0,0,1
+72.62,80,91.67,91.11,United States,North America,1,1,Yes,2,I'm great with technology,4,1,1,1,1,0,0,0,1,0,1,1,1
+75.1,48.52,58.33,100,United States,North America,1,2,Yes,2,I'm great with technology,4,1,1,0,0,0,1,1,0,0,1,0,1
+87.05,80.75,88.89,100,United States,North America,3,0,Sometimes,1,I'm great with technology,4,1,1,1,0,1,0,0,0,0,0,1,1
